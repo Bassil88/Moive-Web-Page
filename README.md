@@ -1,8 +1,8 @@
-# Flexbox Tube
-[![Status overview badge](../../blob/badges/.github/badges/main/badge.svg)](#-results)
+# Flexbox layout 
+[![Status overview ](../../blob/badges/.github/badges/main/badge.svg)](#-results)
 
 
-**Instructions**: 
+**challenge's Instructions**: 
 * In the `HTML` file, create the layout of the page as seen in the reference image below.
 * Use images from the `images` folder.
 
